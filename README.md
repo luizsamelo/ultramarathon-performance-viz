@@ -48,13 +48,34 @@ Python 3.9+ recommended.
 ---
 
 ## Repository Structure
-ultramarathon-performance-viz/
-├── data/
-│   └── TWO_CENTURIES_OF_UM_RACES.csv   ← download from Kaggle (not tracked)
-├── notebooks/
-│   ├── ......ipynb
-│   ├── ultra_partB.ipynb
-│   └── .......ipynb
-├── Viz/
-├── .gitignore
-└── README.md
+
+- `data/` — place the Kaggle CSV here (You need to create this folder and put the csv of the data here)
+- `Notebooks/`
+  - `.....` — Part A
+  - `ultra_partB.ipynb` — Part B 
+  - `.....` — Part C (Rayudu)
+- `Viz/` — Visualizations
+- `.gitignore`
+- `README.md`
+---
+
+## Visualizations
+
+| # | Visualization | Notebook | Author |
+|---|--------------|----------|--------|
+| 1 | Choropleth map — avg pace by country with year slider | .... | .... |
+| 2 | Top 10 national dominance line chart | ..... | ..... |
+| 3 | Speed distribution by distance (box plots) | ultra_partB | Luiz |
+| 4 | Elite vs. median speed over time | ultra_partB | Luiz |
+| 5 | Age vs. speed scatter by gender | ...... | ...... |
+| 6 | Athlete career arc (individual trajectories) | ...... | ....... |
+
+---
+
+## Key Findings
+
+*PLEASE ADD YOUR KEY FINDINGS*
+- Elite 50 km performance has remained stable (~17–18 km/h) since the 1990s,
+  while field median speed has declined — evidence of the sport's democratization.
+- Speed decreases and variability increases with distance (50 km → 50 mi → 100 km),
+  consistent with a broader recreational participation base in longer races.
