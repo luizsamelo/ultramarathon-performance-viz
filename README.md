@@ -53,7 +53,7 @@ Python 3.9+ recommended.
 - `Notebooks/`
   - `ultra_partA.ipynb` — Part A
   - `ultra_partB.ipynb` — Part B 
-  - `.....` — Part C
+  - `ultra_partC.ipynb` — Part C
 - `Viz/` — Visualizations
 - `.gitignore`
 - `README.md`
@@ -67,8 +67,8 @@ Python 3.9+ recommended.
 | 2 | Top 10 national dominance line chart | ultra_partA | Rayudu |
 | 3 | Speed distribution by distance (box plots) | ultra_partB | Luiz |
 | 4 | Elite vs. median speed over time | ultra_partB | Luiz |
-| 5 | Age vs. speed scatter by gender | ...... | ...... |
-| 6 | Athlete career arc (individual trajectories) | ...... | ....... |
+| 5 | Age vs. speed scatter by gender | ultra_partC | ...... |
+| 6 | Athlete career arc (individual trajectories) | ultra_partC | ....... |
 
 ---
 
@@ -79,6 +79,8 @@ Python 3.9+ recommended.
   while field median speed has declined — evidence of the sport's democratization.
 - Speed decreases and variability increases with distance (50 km → 50 mi → 100 km),
   consistent with a broader recreational participation base in longer races.
-- National dominance has shifted significantly — early decades were dominated by a handful of countries, while post-2000 shows broader global participation.
+-  National dominance has shifted significantly — early decades were dominated by a handful of countries, while post-2000 shows broader global participation.
 - Countries with highest avg speed in 50km races are concentrated in Europe and East Africa.
 - The USA leads in total finishers volume, reflecting the sport's mass popularization in North America.
+- Peak performance age differs by gender, with both groups showing a gradual speed decline after their prime years.
+- Long-term career arcs show that top athletes maintain competitive speeds for 10+ years, with a gradual decline in later career stages.
