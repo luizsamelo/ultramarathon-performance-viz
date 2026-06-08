@@ -53,7 +53,7 @@ Python 3.9+ recommended.
 - `Notebooks/`
   - `.....` — Part A
   - `ultra_partB.ipynb` — Part B 
-  - `.....` — Part C (Rayudu)
+  - `.....` — Part C
 - `Viz/` — Visualizations
 - `.gitignore`
 - `README.md`
