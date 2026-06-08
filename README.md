@@ -51,7 +51,7 @@ Python 3.9+ recommended.
 
 - `data/` — place the Kaggle CSV here (You need to create this folder and put the csv of the data here)
 - `Notebooks/`
-  - `.....` — Part A
+  - `ultra_partA.ipynb` — Part A
   - `ultra_partB.ipynb` — Part B 
   - `.....` — Part C
 - `Viz/` — Visualizations
@@ -63,8 +63,8 @@ Python 3.9+ recommended.
 
 | # | Visualization | Notebook | Author |
 |---|--------------|----------|--------|
-| 1 | Choropleth map — avg pace by country with year slider | .... | .... |
-| 2 | Top 10 national dominance line chart | ..... | ..... |
+| 1 | Choropleth map — avg pace by country with year slider | ultra_partA | Rayudu |
+| 2 | Top 10 national dominance line chart | ultra_partA | Rayudu |
 | 3 | Speed distribution by distance (box plots) | ultra_partB | Luiz |
 | 4 | Elite vs. median speed over time | ultra_partB | Luiz |
 | 5 | Age vs. speed scatter by gender | ...... | ...... |
@@ -79,3 +79,6 @@ Python 3.9+ recommended.
   while field median speed has declined — evidence of the sport's democratization.
 - Speed decreases and variability increases with distance (50 km → 50 mi → 100 km),
   consistent with a broader recreational participation base in longer races.
+- National dominance has shifted significantly — early decades were dominated by a handful of countries, while post-2000 shows broader global participation.
+- Countries with highest avg speed in 50km races are concentrated in Europe and East Africa.
+- The USA leads in total finishers volume, reflecting the sport's mass popularization in North America.
