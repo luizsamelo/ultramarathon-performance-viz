@@ -2,10 +2,12 @@
 data/
 
 # Python
+.venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.db.idea/
+.idea/
